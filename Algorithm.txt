@@ -1,0 +1,51 @@
+view the flight details by id
+1. Check for validity of id
+2.if id is invalid:"invalid flight id"
+3.if it is valid then
+	- fetch the flight detials with given id
+4.return flight details with sucess reposnse
+
+delete the flight detail by id
+1.check for validity of id
+2.if id is invalid:"invalid flight id"
+3.if it is valid then
+	- delete the flight detials with given id
+4.return flight details with sucess reposnse :"deleted the flight details with given id"
+
+
+update the schedule details by id
+1.check for validity of id
+2.if id is invalid:"invalid schedule id"
+3.if it is valid then
+	- update the schedule detials with given id
+4.return flight details with sucess reposnse 
+
+
+List the schedule details for the user
+this for user after clicking on button schedule details should be visible
+1. if data found
+	-return all the list of schedule details
+2.if data is not there
+ 	-return no data found-"no scheudle flight details"
+
+
+Login
+1.check the username and password
+2. if it doesnt matches the username and password or no value is given 
+ 	-return the wrong user name or password
+3.if the login detials were correct
+	-return login success
+
+
+Admin
+1.check the username and password
+2. if it doesnt matches the username and password or no value is given 
+ 	-return the wrong user name or password
+3.if the login detials were correct
+	-return admin login success
+
+
+
+
+
+LINQ Queries
